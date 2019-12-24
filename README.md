@@ -11,7 +11,7 @@ This meta-EIP specifies the changes included in the Ethereum hard fork named Mui
 ## Motivation
 The difficulty bomb started to become noticeable again on October 5th 2019 at block 8,600,000. Block times have been around 13.1s on average and now as of block 8,900,000 are around 14.3s. This will start to accelerate exponentially every 100,000 blocks. Estimating the added impact from the difficulty bomb on block times shows that we will see 20s block times near the end of December 2019 and 30s+ block times starting February 2020. This will start making the chain bloated and more costly to use. It’s best to delay the difficulty bomb again to around the time of expected launch of the Eth2 finality gadget.
 
-<p><strong>As a node operator or miner, what do I need to do?</strong></p>
+## As a node operator or miner, what do I need to do?
 
 <p>Download the latest version of your Ethereum client:</p>
 
@@ -24,3 +24,9 @@ The difficulty bomb started to become noticeable again on October 5th 2019 at bl
 	<li><a href="https://github.com/ethereum/aleth/releases/tag/v1.8.0">Latest Aleth Client (v1.8.0)</a></li>
 </ul>
 
+<p>Download the latest version Claymore Dual Miner:</p>
+
+<ul>
+	<li><a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases">Latest Claymore Dual Miner (v15.0)</a></li>
+
+</ul>
